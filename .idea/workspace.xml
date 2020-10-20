@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37315ea1-c7e1-4391-a020-ad47e23b60b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_vars/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/02_vars/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,16 @@
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Faiq &lt;faiq.kaboel@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j9DdjmB6A2aXQ29m4nHedGjoUM" />
@@ -59,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603207953738</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="vars">
+      <created>1603208163514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603208163514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,13 +96,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
+    <MESSAGE value="vars" />
+    <option name="LAST_COMMIT_MESSAGE" value="vars" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2057" y="534" key="CommitChangelistDialog2" timestamp="1603207952177">
+    <state x="2057" y="534" key="CommitChangelistDialog2" timestamp="1603208162383">
       <screen x="1920" y="-3" width="1080" height="1920" />
     </state>
-    <state x="2057" y="534" key="CommitChangelistDialog2/306.1080.1366.768/0.0.1920.1080/1920.-3.1080.1920@1920.-3.1080.1920" timestamp="1603207952177" />
+    <state x="2057" y="534" key="CommitChangelistDialog2/306.1080.1366.768/0.0.1920.1080/1920.-3.1080.1920@1920.-3.1080.1920" timestamp="1603208162383" />
     <state x="1961" y="602" key="SettingsEditor" timestamp="1603207673649">
       <screen x="1920" y="-3" width="1080" height="1920" />
     </state>
