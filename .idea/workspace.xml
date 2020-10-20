@@ -11,8 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37315ea1-c7e1-4391-a020-ad47e23b60b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_packages/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_packages/strutil/reverse.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603208163514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="packages">
+      <created>1603209798946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603209798946</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,16 +103,25 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world" />
     <MESSAGE value="vars" />
-    <option name="LAST_COMMIT_MESSAGE" value="vars" />
+    <MESSAGE value="packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="packages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2057" y="534" key="CommitChangelistDialog2" timestamp="1603208162383">
+    <state x="2057" y="534" key="CommitChangelistDialog2" timestamp="1603209797774">
       <screen x="1920" y="-3" width="1080" height="1920" />
     </state>
-    <state x="2057" y="534" key="CommitChangelistDialog2/306.1080.1366.768/0.0.1920.1080/1920.-3.1080.1920@1920.-3.1080.1920" timestamp="1603208162383" />
+    <state x="2057" y="534" key="CommitChangelistDialog2/306.1080.1366.768/0.0.1920.1080/1920.-3.1080.1920@1920.-3.1080.1920" timestamp="1603209797774" />
     <state x="1961" y="602" key="SettingsEditor" timestamp="1603207673649">
       <screen x="1920" y="-3" width="1080" height="1920" />
     </state>
     <state x="1961" y="602" key="SettingsEditor/306.1080.1366.768/0.0.1920.1080/1920.-3.1080.1920@1920.-3.1080.1920" timestamp="1603207673649" />
+    <state x="2052" y="690" key="Vcs.Push.Dialog.v2" timestamp="1603209802612">
+      <screen x="1920" y="-3" width="1080" height="1920" />
+    </state>
+    <state x="2052" y="690" key="Vcs.Push.Dialog.v2/306.1080.1366.768/0.0.1920.1080/1920.-3.1080.1920@1920.-3.1080.1920" timestamp="1603209802612" />
+    <state x="2277" y="871" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603209861632">
+      <screen x="1920" y="-3" width="1080" height="1920" />
+    </state>
+    <state x="2277" y="871" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/306.1080.1366.768/0.0.1920.1080/1920.-3.1080.1920@1920.-3.1080.1920" timestamp="1603209861632" />
   </component>
 </project>
