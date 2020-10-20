@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="37315ea1-c7e1-4391-a020-ad47e23b60b6" name="Default Changelist" comment="" />
+    <list default="true" id="37315ea1-c7e1-4391-a020-ad47e23b60b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,12 +52,39 @@
       <option name="presentableId" value="Default" />
       <updated>1603207502314</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello world">
+      <created>1603207953738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603207953738</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2057" y="534" key="CommitChangelistDialog2" timestamp="1603207952177">
+      <screen x="1920" y="-3" width="1080" height="1920" />
+    </state>
+    <state x="2057" y="534" key="CommitChangelistDialog2/306.1080.1366.768/0.0.1920.1080/1920.-3.1080.1920@1920.-3.1080.1920" timestamp="1603207952177" />
     <state x="1961" y="602" key="SettingsEditor" timestamp="1603207673649">
       <screen x="1920" y="-3" width="1080" height="1920" />
     </state>
