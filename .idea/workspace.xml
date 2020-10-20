@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37315ea1-c7e1-4391-a020-ad47e23b60b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/03_packages/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_packages/strutil/reverse.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_vars/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/02_vars/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
